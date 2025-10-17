@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="Recursos">
+    <file>Imagenes/4.png</file>
+    <file>Iconos/cil-chart.png</file>
+    <file>Iconos/cil-chart-line.png</file>
+    <file>Iconos/cil-description.png</file>
+    <file>Iconos/cil-home.png</file>
+    <file>Iconos/cil-menu.png</file>
+    <file>Iconos/cil-power-standby.png</file>
+    <file>Iconos/cil-x-circle.png</file>
+    <file>Iconos/cil-settings.png</file>
+    <file>Iconos/icon_close.png</file>
+    <file>Iconos/icon_maximize.png</file>
+    <file>Iconos/icon_menu.png</file>
+    <file>Iconos/icon_minimize.png</file>
+    <file>Iconos/icon_restore.png</file>
+    <file>Iconos/icon_settings.png</file>
+    <file>Imagenes/5968286.png</file>
+    <file>Imagenes/escudounipamplona.png</file>
+    <file>Imagenes/Imagen1.png</file>
+    <file>Imagenes/logo_acreditacion.png</file>
+    <file>Imagenes/logo-equaa.png</file>
+    <file>Imagenes/PyDracula.png</file>
+    <file>Imagenes/PyDracula_horizontal.png</file>
+    <file>Imagenes/PyDracula_vertical.png</file>
+    <file>Imagenes/slogan_blanco.png</file>
+    <file>Imagenes/5968286.png</file>
+    <file>Imagenes/escudounipamplona.png</file>
+    <file>Imagenes/Imagen1.png</file>
+    <file>Imagenes/logo_acreditacion.png</file>
+    <file>Imagenes/logo-equaa.png</file>
+    <file>Imagenes/PyDracula.png</file>
+    <file>Imagenes/PyDracula_horizontal.png</file>
+    <file>Imagenes/PyDracula_vertical.png</file>
+    <file>Imagenes/slogan_blanco.png</file>
+  </qresource>
+</RCC>
